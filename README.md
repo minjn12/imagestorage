@@ -1,3 +1,5 @@
 # imagestorage
 
-### [SULLYOON]([https://github.io](https://minjn12.github.io/imagestorage/main.html)https://minjn12.github.io/imagestorage/main.html)
+### [image](https://github.io](https://minjn12.github.io/imagestorage/main.html)
+### [internet](https://github.io](https://minjn12.github.io/imagestorage/int.html)
+### [local](https://github.io](https://minjn12.github.io/imagestorage/sy_local.html)
